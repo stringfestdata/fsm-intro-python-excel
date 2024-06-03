@@ -1,5 +1,4 @@
-# xlgs-2024-pie
-Python in Excel: First Steps resources
+Full Stack Modeler presentation on Python in Excel
 
 
-Run this repo on the cloud: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/xlgs-2024-pie/HEAD)
+Run this repo on the cloud: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stringfestdata/fsm-intro-python-excel/HEAD)
